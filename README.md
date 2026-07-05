@@ -18,13 +18,13 @@ SQL, Excel, Tableau, and R — and documenting every step here.
 | Course | Status |
 
 | Foundations: Data, Data, Everywhere | Completed |
-| Ask Questions to Make Data-Driven Decisions | ⏳In progress |
-| Prepare Data for Exploration | ⏳ Not Started |
-| Process Data from Dirty to Clean | ⏳ Not Started |
-| Analyze Data to Answer Questions | ⏳ Not Started |
-| Share Data Through the Art of Visualization | ⏳ Not Started |
-| Data Analysis with R Programming | ⏳ Not Started |
-| Google Data Analytics Capstone | ⏳ Not Started |
+| Ask Questions to Make Data-Driven Decisions | In progress |
+| Prepare Data for Exploration |  Not Started |
+| Process Data from Dirty to Clean | Not Started |
+| Analyze Data to Answer Questions | Not Started |
+| Share Data Through the Art of Visualization |  Not Started |
+| Data Analysis with R Programming |  Not Started |
+| Google Data Analytics Capstone |  Not Started |
 
 ---
 
@@ -36,7 +36,7 @@ SQL, Excel, Tableau, and R — and documenting every step here.
 
 ---
 
-## 📁 What's in This Repo
+##  What's in This Repo
 - `/notes` — Key concepts from each course
 - `/sql-practice` — SQL queries I write as I learn
 - `/projects` — Case studies and the final capstone
@@ -45,3 +45,7 @@ SQL, Excel, Tableau, and R — and documenting every step here.
 
 ## 📬 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/adishwar-jain-083326356/
+
+
+## Practical Projects
+* [Deloitte Data Analytics Virtual Experience](./projects/Deloitte-Data-Analytics/) - A forensic technology project containing a Tableau telemetry downtime dashboard and an automated Excel pay equity compliance tracking model.
