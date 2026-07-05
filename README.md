@@ -46,6 +46,5 @@ SQL, Excel, Tableau, and R — and documenting every step here.
 ## 📬 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/adishwar-jain-083326356/
 
-
 ## Practical Projects
 * [Deloitte Data Analytics Virtual Experience](./projects/Deloitte-Data-Analytics/) - A forensic technology project containing a Tableau telemetry downtime dashboard and an automated Excel pay equity compliance tracking model.
